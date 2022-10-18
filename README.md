@@ -6,6 +6,9 @@ lines from standard input stream, then manipulates and prints out the lines cont
 
 
 Command Line Arguments (CLA)
+
+
+
  -n: prints out the line numbers that contain the pattern string. Please note that line-numbering starts from 1.
   
   
